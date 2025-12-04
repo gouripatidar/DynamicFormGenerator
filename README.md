@@ -143,7 +143,7 @@ LLM receives context: 2 forms instead of 1000 → 50x token savings
 
 3. **Configure `.env`:**
    ```
-   MONGODB_URI=mongodb+srv://user:pass@cluster.mongodb.net/centralign
+   MONGODB_URI=
    JWT_SECRET=generate-random-key-here
    PORT=4000
    CORS_ORIGIN=http://localhost:3000
@@ -393,5 +393,6 @@ MIT License - Free to use and modify
 ---
 
 **Questions?** Refer to API documentation or examine route handlers in `backend/routes/`
+
 
 
