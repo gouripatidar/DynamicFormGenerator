@@ -1,4 +1,4 @@
-# Centralign AI - AI-Powered Dynamic Form Generator
+# AI-Powered Dynamic Form Generator
 
 A full-stack web application that generates dynamic, shareable forms using AI with context-aware memory retrieval, form submission tracking, and image upload support.
 
@@ -393,4 +393,5 @@ MIT License - Free to use and modify
 ---
 
 **Questions?** Refer to API documentation or examine route handlers in `backend/routes/`
+
 
