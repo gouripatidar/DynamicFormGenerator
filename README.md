@@ -389,10 +389,8 @@ similarForms = await pinecone.query(
 
 MIT License - Free to use and modify
 
-## 👤 Author
-
-Centralign AI Assessment - Internship Project
 
 ---
 
 **Questions?** Refer to API documentation or examine route handlers in `backend/routes/`
+
