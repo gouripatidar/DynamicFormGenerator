@@ -36,7 +36,7 @@ PORT=4000
 CORS_ORIGIN=http://localhost:3000
 
 # MongoDB Connection
-MONGODB_URI=mongodb+srv://username:password@cluster.mongodb.net/forms-db?retryWrites=true&w=majority
+MONGODB_URI=
 
 # JWT Authentication
 JWT_SECRET=your-super-secret-key-change-this-in-production
@@ -1204,4 +1204,5 @@ Q4 2025+: Phase 4 (Infrastructure)
 4. Deploy to production
 
 **Estimated Completion:** Phase 1 (2 weeks) → Phase 2 (1 month) → Full Stack (2-3 months)
+
 
